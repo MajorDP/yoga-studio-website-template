@@ -9,11 +9,11 @@ export const metadata = {
     title: "Hot Yoga Classes | [Studio Name]",
     description:
       "Experience expert-led Hot Yoga in a heated studio. Designed to help you detox, improve mobility, and feel revitalized inside and out.",
-    url: "https://fitness-coach-website-v1.vercel.app/hot-yoga",
+    url: "https://yoga-studio-website-template.vercel.app",
     siteName: "Mind & Body Yoga Studio",
     images: [
       {
-        url: "https://fitness-coach-website-v1.vercel.app/aboutImg.jpeg",
+        url: "https://yoga-studio-website-template.vercel.app/aboutImg.jpeg",
         alt: "Hot yoga class in heated studio",
       },
     ],

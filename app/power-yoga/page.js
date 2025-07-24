@@ -9,11 +9,11 @@ export const metadata = {
     title: "Power Yoga Classes | [Studio Name]",
     description:
       "Level up your fitness with our high-energy Power Yoga sessions. Led by certified instructors, designed for stamina, strength, and mental clarity.",
-    url: "https://fitness-coach-website-v1.vercel.app/power-yoga",
+    url: "https://yoga-studio-website-template.vercel.app",
     siteName: "Mind & Body Yoga Studio",
     images: [
       {
-        url: "https://fitness-coach-website-v1.vercel.app/aboutImg.jpeg",
+        url: "https://yoga-studio-website-template.vercel.app/aboutImg.jpeg",
         alt: "Power yoga class in action",
       },
     ],

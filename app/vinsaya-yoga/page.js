@@ -9,11 +9,11 @@ export const metadata = {
     title: "Vinyasa Yoga Classes | [Studio Name]",
     description:
       "Join our guided Vinyasa Yoga sessions to flow with breath and intention. Perfect for building strength, balance, and reducing stress.",
-    url: "https://fitness-coach-website-v1.vercel.app/vinsaya-yoga",
+    url: "https://yoga-studio-website-template.vercel.app",
     siteName: "Mind & Body Yoga Studio",
     images: [
       {
-        url: "https://fitness-coach-website-v1.vercel.app/aboutImg.jpeg",
+        url: "https://yoga-studio-website-template.vercel.app/aboutImg.jpeg",
         alt: "Vinyasa yoga class in session",
       },
     ],

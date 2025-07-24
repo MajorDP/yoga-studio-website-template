@@ -14,11 +14,11 @@ export const metadata = {
     title: "Mind & Body Yoga Studio | Expert-Led Yoga in [Your City]",
     description:
       "Join a community of mindful movement. Vinyasa, Power & Hot Yoga classes that welcome all levels. Strengthen, stretch, and restore.",
-    url: "https://fitness-coach-website-v1.vercel.app",
+    url: "https://yoga-studio-website-template.vercel.app",
     siteName: "Mind & Body Yoga Studio",
     images: [
       {
-        url: "https://fitness-coach-website-v1.vercel.app/aboutImg.jpeg",
+        url: "https://yoga-studio-website-template.vercel.app/aboutImg.jpeg",
         alt: "People practicing yoga in a calm studio",
       },
     ],
