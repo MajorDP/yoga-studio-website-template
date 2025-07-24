@@ -1,6 +1,27 @@
 import Image from "next/image";
 import Link from "next/link";
 
+export const metadata = {
+  title: "Power Yoga Classes | [Studio Name]",
+  description:
+    "High-intensity Power Yoga classes to build strength, endurance, and focus. Perfect for fitness-minded practitioners and athletes.",
+  openGraph: {
+    title: "Power Yoga Classes | [Studio Name]",
+    description:
+      "Level up your fitness with our high-energy Power Yoga sessions. Led by certified instructors, designed for stamina, strength, and mental clarity.",
+    url: "https://fitness-coach-website-v1.vercel.app/power-yoga",
+    siteName: "Mind & Body Yoga Studio",
+    images: [
+      {
+        url: "https://fitness-coach-website-v1.vercel.app/aboutImg.jpeg",
+        alt: "Power yoga class in action",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+};
+
 function Page() {
   return (
     <section

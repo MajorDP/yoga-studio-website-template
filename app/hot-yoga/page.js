@@ -1,6 +1,27 @@
 import Image from "next/image";
 import Link from "next/link";
 
+export const metadata = {
+  title: "Hot Yoga Classes | [Studio Name]",
+  description:
+    "Sweat, stretch, and detox in our heated Hot Yoga studio. Led by expert instructors, these sessions improve flexibility, stamina, and mental clarity.",
+  openGraph: {
+    title: "Hot Yoga Classes | [Studio Name]",
+    description:
+      "Experience expert-led Hot Yoga in a heated studio. Designed to help you detox, improve mobility, and feel revitalized inside and out.",
+    url: "https://fitness-coach-website-v1.vercel.app/hot-yoga",
+    siteName: "Mind & Body Yoga Studio",
+    images: [
+      {
+        url: "https://fitness-coach-website-v1.vercel.app/aboutImg.jpeg",
+        alt: "Hot yoga class in heated studio",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+};
+
 function page() {
   return (
     <section

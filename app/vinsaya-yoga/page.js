@@ -1,6 +1,27 @@
 import Image from "next/image";
 import Link from "next/link";
 
+export const metadata = {
+  title: "Vinyasa Yoga Classes | [Studio Name]",
+  description:
+    "Discover breath-synchronized Vinyasa Yoga classes that improve strength, flexibility, and mental clarity. All levels welcome.",
+  openGraph: {
+    title: "Vinyasa Yoga Classes | [Studio Name]",
+    description:
+      "Join our guided Vinyasa Yoga sessions to flow with breath and intention. Perfect for building strength, balance, and reducing stress.",
+    url: "https://fitness-coach-website-v1.vercel.app/vinsaya-yoga",
+    siteName: "Mind & Body Yoga Studio",
+    images: [
+      {
+        url: "https://fitness-coach-website-v1.vercel.app/aboutImg.jpeg",
+        alt: "Vinyasa yoga class in session",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+};
+
 function Page() {
   return (
     <section
